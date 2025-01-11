@@ -1,2 +1,3 @@
 # shivproject
-first
+my first project
+author-shivprasad bhure
